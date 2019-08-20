@@ -6,6 +6,16 @@ Heavenly Shaved Ice
  * Refactor purchased items into their own component
  *  * display the item with its color, name, and ingredients
 
+## Heavenly Shaved Ice Flavors
+ * Tiger's blood
+   - 1 Watermelon, 1 Strawberry, 1 Coconut
+ * Strawberry Cheesecake
+   - 2 Strawberry, 1 Vanilla, 1 Lime
+ * Pink Lemonade
+   - 2 Raspberry, 2 Lemon
+ * Red Velvet
+   - 2 Cherry, 2 Raspberry, 1 Vanilla
+
 
 ## Available Scripts
 
