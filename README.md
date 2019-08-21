@@ -1,5 +1,11 @@
 Heavenly Shaved Ice
 
+You own and opperate an automated shaved ice stand. A customer will walk up to the stand and make one or more selections, these selections will be displayed in a panel on your app. The icon for a selected flavor will be your logo with a background color which represents the selected shaved ice flavor.
+
+Unfortunately the app to run your shaved ice stand is incomplete.
+
+Make a fork of this repository and complete the following goals:
+
 ## GOALS:
  * When a user clicks on a shaved ice option, add the selection to the rendered purchases
  * A purchased flavor's background color should be a combination of the colors in that flavor's recipe
@@ -15,6 +21,16 @@ Heavenly Shaved Ice
    - 2 Raspberry, 2 Lemon
  * Red Velvet
    - 2 Cherry, 2 Raspberry, 1 Vanilla
+
+## Flavor Colors
+ * Watermelon #D6297B
+ * Strawberry #D6292F
+ * Coconut #F8F7DC
+ * Vanilla #D1BEA8
+ * Lime #BFFF00
+ * Raspberry #0066FF
+ * Cherry #651A14
+ * Lemon #FDE910
 
 
 ## Available Scripts
